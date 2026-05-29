@@ -54,15 +54,15 @@ well; Model #5 (single-team subset) performed significantly worse, suggesting
 insufficient training data.
 
 ## Repository Structure
-├── notebooks/
-│   ├── NFL_EPA_ML_Study_Model1_Run1.ipynb
-│   ├── NFL_EPA_ML_Study_Model1_Run2.ipynb
-│   ├── NFL_EPA_ML_Study_Model1_Run3.ipynb
-│   ├── NFL_EPA_ML_Study_Model2_Run1.ipynb
-│   ├── ... (16 notebooks total)
-│   └── Error_Calculations.ipynb
-├── Final_Project_Haxton.pdf
-└── README.md
+├── notebooks/  
+│   ├── NFL_EPA_ML_Study_Model1_Run1.ipynb  
+│   ├── NFL_EPA_ML_Study_Model1_Run2.ipynb  
+│   ├── NFL_EPA_ML_Study_Model1_Run3.ipynb  
+│   ├── NFL_EPA_ML_Study_Model2_Run1.ipynb  
+│   ├── ... (16 notebooks total)  
+│   └── Error_Calculations.ipynb  
+├── Final_Project_Haxton.pdf  
+└── README.md  
 
 ## Key Findings
 
